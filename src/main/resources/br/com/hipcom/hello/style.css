@@ -1,0 +1,9 @@
+.root{
+    -fx-background-color: linear-gradient(black, gray);
+}
+.button-class {
+    -fx-background-color: #283848;
+}
+.button-class:hover {
+    -fx-background-color: green;
+}
